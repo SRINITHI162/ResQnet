@@ -1,0 +1,6 @@
+package com.resqnet.enums;
+
+public enum DisasterType {
+    FLOOD, CYCLONE, FIRE, LANDSLIDE, EARTHQUAKE, ACCIDENT, STORM,
+    BUILDING_COLLAPSE, MEDICAL_EMERGENCY, OTHER
+}
