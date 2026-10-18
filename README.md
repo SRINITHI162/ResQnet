@@ -1,3 +1,4 @@
+
 # RESQNET — Intelligent Disaster Response & Resource Allocation System
 
 A software-only disaster management and decision-support platform: incident reporting and
@@ -170,3 +171,6 @@ points for you to build on directly on top of this codebase:
 - ML-based severity prediction service, integrated via a new Spring service bean.
 - Push notifications / SMS integration for citizens near an incident.
 - Mobile app (React Native) reusing the same REST/WebSocket API.
+=======
+# ResQnet
+>>>>>>> f278de4d50c1be2e9ed324d06226f0c35444fbeb
